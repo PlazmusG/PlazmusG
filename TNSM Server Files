@@ -1,0 +1,3 @@
+function TNSM() {
+if (server == bad) {delete server}
+}
